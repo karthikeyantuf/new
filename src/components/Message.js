@@ -25,5 +25,5 @@ class Message extends Component
         </div>
     )
     }
-}
+}//commenting while studying abt git
 export default Message
